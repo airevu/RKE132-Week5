@@ -1,0 +1,5 @@
+/Users/airevuchmann/Projects/Week5LogicalOperators/Week5LogicalOperators/obj/Debug/net6.0/Week5LogicalOperators.csproj.AssemblyReference.cache
+/Users/airevuchmann/Projects/Week5LogicalOperators/Week5LogicalOperators/obj/Debug/net6.0/Week5LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/airevuchmann/Projects/Week5LogicalOperators/Week5LogicalOperators/obj/Debug/net6.0/Week5LogicalOperators.AssemblyInfoInputs.cache
+/Users/airevuchmann/Projects/Week5LogicalOperators/Week5LogicalOperators/obj/Debug/net6.0/Week5LogicalOperators.AssemblyInfo.cs
+/Users/airevuchmann/Projects/Week5LogicalOperators/Week5LogicalOperators/obj/Debug/net6.0/Week5LogicalOperators.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+/Users/airevuchmann/Projects/Week5LogicalOperators/ANDOperator/bin/Debug/net6.0/ANDOperator
+/Users/airevuchmann/Projects/Week5LogicalOperators/ANDOperator/bin/Debug/net6.0/ANDOperator.deps.json
+/Users/airevuchmann/Projects/Week5LogicalOperators/ANDOperator/bin/Debug/net6.0/ANDOperator.runtimeconfig.json
+/Users/airevuchmann/Projects/Week5LogicalOperators/ANDOperator/bin/Debug/net6.0/ANDOperator.dll
+/Users/airevuchmann/Projects/Week5LogicalOperators/ANDOperator/bin/Debug/net6.0/ANDOperator.pdb
+/Users/airevuchmann/Projects/Week5LogicalOperators/ANDOperator/obj/Debug/net6.0/ANDOperator.csproj.AssemblyReference.cache
+/Users/airevuchmann/Projects/Week5LogicalOperators/ANDOperator/obj/Debug/net6.0/ANDOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/airevuchmann/Projects/Week5LogicalOperators/ANDOperator/obj/Debug/net6.0/ANDOperator.AssemblyInfoInputs.cache
+/Users/airevuchmann/Projects/Week5LogicalOperators/ANDOperator/obj/Debug/net6.0/ANDOperator.AssemblyInfo.cs
+/Users/airevuchmann/Projects/Week5LogicalOperators/ANDOperator/obj/Debug/net6.0/ANDOperator.csproj.CoreCompileInputs.cache
+/Users/airevuchmann/Projects/Week5LogicalOperators/ANDOperator/obj/Debug/net6.0/ANDOperator.dll
+/Users/airevuchmann/Projects/Week5LogicalOperators/ANDOperator/obj/Debug/net6.0/refint/ANDOperator.dll
+/Users/airevuchmann/Projects/Week5LogicalOperators/ANDOperator/obj/Debug/net6.0/ANDOperator.pdb
+/Users/airevuchmann/Projects/Week5LogicalOperators/ANDOperator/obj/Debug/net6.0/ANDOperator.genruntimeconfig.cache
+/Users/airevuchmann/Projects/Week5LogicalOperators/ANDOperator/obj/Debug/net6.0/ref/ANDOperator.dll
